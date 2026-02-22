@@ -4,7 +4,7 @@ from pathlib import Path
 from pipeline import ItemExtractionPipeline
 
 
-_TR_FILE = Path(__file__).parent / "tr_sample.txt"
+_TR_FILE = Path(__file__).parent / "docs_sample" / "doc_sample.txt"
 SAMPLE_DOCUMENT = _TR_FILE.read_text(encoding="utf-8")
 
 
