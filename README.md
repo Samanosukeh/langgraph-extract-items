@@ -16,7 +16,7 @@
 [![Langfuse](https://img.shields.io/badge/Langfuse-Observability-purple)](https://langfuse.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A **LangGraph Map-Reduce pipeline** that extracts, classifies, and enriches procurement items from Portuguese public-sector documents (Termos de Referência, Editais).
+A **LangGraph Map-Reduce pipeline** that extracts, classifies, and enriches procurement items from documents.
 
 ---
 
