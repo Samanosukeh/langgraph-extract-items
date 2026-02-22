@@ -162,9 +162,3 @@ Each processed item in `items_processed` contains:
     "metadata": "{...}"           # JSON string with full ItemMetadata
 }
 ```
-
----
-
-## License
-
-MIT
