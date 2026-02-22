@@ -1,0 +1,31 @@
+PRODUCT_CLASSES = [
+    "Alimentos / Perecíveis",
+    "Equipamentos Eletrônicos",
+    "Equipamentos Permanentes / Mobiliário",
+    "Materiais Elétricos",
+    "Materiais Médico-Hospitalares",
+    "Materiais de Construção",
+    "Materiais de Consumo / Escolar / Escritório",
+    "Materiais de Higiene, Cozinha e Apoio",
+    "Medicamentos",
+    "Produtos Técnicos Industrializados",
+    "Software / Licenciamento",
+    "Suprimentos Agropecuários / Veterinários",
+    "Vestuário / EPIs",
+]
+
+SERVICE_CLASSES = [
+    "Serviços Científicos e Especializados",
+    "Serviços Genéricos",
+    "Serviços Gerais e Operacionais",
+    "Serviços Técnicos e Tecnológicos",
+    "Serviços com Pessoal Dedicado",
+    "Serviços de Alimentação e Hotelaria",
+    "Serviços de Apoio Administrativo e Profissional",
+    "Serviços de Comunicação e Eventos",
+    "Serviços de Infraestrutura e Engenharia",
+    "Serviços de Limpeza e Conservação",
+    "Serviços de Logística e Transporte",
+    "Serviços de Manutenção e Reparos",
+    "Serviços de Saúde",
+]

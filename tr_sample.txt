@@ -1,0 +1,1018 @@
+SECRETARIA DE ESTADO DA SAÚDE
+ 
+ 
+TERMO DE REFERÊNCIA
+Número do Processo - SEI202300005026104 Em conformidade com a Lei Federal nº 14.133 de abril de 2021 e com o Decreto Estadual n° 10.207 de janeiro de 2023, o Termo de Referência é o documento necessário para a contratação de bens e serviços comuns, destinado a identificar as especificações do objeto e as condições da contratação e execução, devendo conter os elementos mínimos previstos na legislação.
+O Termo de Referência deve ser elaborado com base nos estudos técnicos preliminares, após o posicionamento conclusivo sobre a adequação da contratação para o atendimento da necessidade a que se destina.
+O Termo de Referência deverá ser elaborado, obrigatoriamente, nas contratações de bens e serviços comuns, inclusive serviços comuns de engenharia, independente da forma de seleção do fornecedor, seja por licitação ou por contratação direta. 1.1. Dados do Processo
+Número do Processo Administrativo no Sei 202300005026104
+
+
+1.2. Adequação Orçamentária
+ A presente contratação será autorizada pelo Ordenador de Despesas, com a respectiva indicação orçamentária, nos termos do Decreto Estadual n° 10.207 de janeiro de 2023. 3.1. Os valores referenciais estimados da contratação, unitários e totais, aferidos conforme ampla pesquisa de mercado, são os seguintes:
+
+    
+        
+            Lote único
+        
+        
+            Descrição do item 001Código 3618 - Totem, para registro de presença, com autenticação da face e biometria digital, com, sistema web de transmissão e gerenciamento.
+        
+            Informações AdicionaisDispositivo eletrônico (totem) para autenticação facial
+        
+            Período (Meses)
+            
+        
+            Quantidade
+            28
+        
+            Unidade
+            unidade
+        
+            Participação
+            Ampla Participação
+        
+            Local de Entrega
+            gerência de tecnologia
+        
+            Diferença Mínima
+            
+        
+            Valor Unitário
+            R$ 35.567,11
+        
+            Valor Total
+            R$ 995.879,08
+        
+             
+        
+        
+            Lote único
+        
+        
+            Descrição do item 002Código 4999 - Prestação de serviços, de instalação de cabeamento elétrico e de rede de dados.
+        
+            Informações AdicionaisPrestação dos serviços de conexão de cabeamento elétrico e de rede de dados, à rede disponibilizada pela Contratante, delimitação de posicionamento, instalação e con?guração dos dispositivos.
+        
+            Período (Meses)
+            
+        
+            Quantidade
+            1
+        
+            Unidade
+            servico (s)
+        
+            Participação
+            Ampla Participação
+        
+            Local de Entrega
+            gerência de tecnologia
+        
+            Diferença Mínima
+            
+        
+            Valor Unitário
+            R$ 148.837,37
+        
+            Valor Total
+            R$ 148.837,37
+        
+             
+        
+        
+            Lote único
+        
+        
+            Descrição do item 003Código 1066 - Serviços Técnicos Especializados, serviços de instalação, customização, configuração e treinamento das soluções de software.
+        
+            Informações AdicionaisSistema informatizado, por usuário, para gerenciamento dos dados relativos à presença registrada nos dispositivos de autenticação da face e à Secretaria de Saúde do Estado, com acesso via web para comunicação e consultas.
+        
+            Período (Meses)
+            
+        
+            Quantidade
+            1
+        
+            Unidade
+            servico (s)
+        
+            Participação
+            Ampla Participação
+        
+            Local de Entrega
+            gerência de tecnologia
+        
+            Diferença Mínima
+            
+        
+            Valor Unitário
+            R$ 23.748,89
+        
+            Valor Total
+            R$ 23.748,89
+        
+             
+        
+        
+            Lote único
+        
+        
+            Descrição do item 004Código 5000 - Manutenção Preventiva e Corretiva em Equipamentos de Informática, equipamentos para atendimento de helpdesk.
+        
+            Informações AdicionaisPrestação dos serviços de treinamento, suporte técnico, atualizações, integrações, customizações, hospedagem, manutenção preventiva e corretiva, presencial ou remotamente, e envio de alertas por e-mail, noti?cação push e mensagens de texto para celular de forma automática e em quantidade ilimitada.
+        
+            Período (Meses)
+            
+        
+            Quantidade
+            1
+        
+            Unidade
+            unidade
+        
+            Participação
+            Ampla Participação
+        
+            Local de Entrega
+            gerência de tecnologia
+        
+            Diferença Mínima
+            
+        
+            Valor Unitário
+            R$ 26.152,00
+        
+            Valor Total
+            R$ 26.152,00
+        
+             
+        
+    
+
+
+3.2. Preço Total Estimado: não sigiloso - R$ 1.194.617,34 (R$ Um Milhão e Cento e  Noventa e Quatro Mil e Seiscentos e Dezessete Reais e Trinta e Quatro Centavos) .
+3.3. O preço total estimado da contratação fundamenta-se conforme pesquisa de preços realizada em conformidade com o Decreto Estadual n° 9.900 de julho de 2021.
+3.4. Os preços estimados especificados neste Termo de Referência, unitários, totais e global, correspondem aos preços máximos nos quais o objeto poderá ser adjudicado. Não será admitida a adjudicação do objeto por preços (unitário e global) superiores aos especificados neste Termo de Referência. 4.1. O objeto contratado deverá atender às especificações e a descrição como um todo, abaixo apresentadas: Contratação de empresa especializada em Lote Único para fornecimento de dispositivos eletrônicos, serviços técnicos e sistemas informatizados para apoio no controle da dispensação de medicamentos de alto custo da SES-GO de forma integrada ao SDME (Sistema de Dispensação de Medicamentos Especializados), conforme especificações, quantidades e outros elementos pertinentes que se encontram estabelecidos neste Estudo Técnico Preliminar.
+4. DESCRIÇÃO DA SOLUÇÃO
+4.1. A seguir estão especificadas as características mínimas para atendimento por parte das licitantes:
+Item 1 - Dispositivo eletrônico (totem) para autenticação facial
+1. Totem de autoatendimento com altura de 1,60 m;
+2. Material do totem: Aço carbono SAE 1024 chapa 1,5 mm, com pintura epóxi eletrostática, tratamento químico anti ferrugem;
+3. Permitir a identificação por autenticação facial;
+4. Capacidade mínima para armazenamento de 50.000 faces;
+5. Display colorido sensível ao toque de no mínimo 7 (sete) polegadas;
+6. Tempo de identificação igual ou menor que 01 (um) segundo;
+7. Distância de reconhecimento de 0,4 a 3 metros;
+8. Possuir recurso anti falsificação (face anti -spoofing) contra ataques;
+9. Taxa de precisão maior ou igual a 99%;
+10. Comunicação TCP/IP com api rest embarcada e USB para download de registros;
+11. Função de configuração servidor-web para envio de registros diretamente pela web, configurando IP servidor, porta, usuário, senha e intervalo;
+12. Interface de comunicação Ethernet 10/100/1000 Mbps com protocolo TCP-IP puro, sem utilização de conversores;
+13. Sistema operacional Linux;
+14. Firmware embarcado com api rest diretamente ao software web;
+15. Função de atualização de data e hora pelo servidor web;
+16. Modos de verificação 1:1 e 1:N;
+17. Possuir câmera dupla de 2 MP;
+18. Confirmação de reconhecimento por mensagem em tela e sonora por voz em língua portuguesa;
+19. Coleta e envio de registros de forma manual e automática, que funcione em modo de background de modo simultâneo entre vários dispositivos;
+20. Módulo de monitoramento web com georreferenciamento das condições operacionais dos dispositivos em tempo real, apontando eventuais erros ou indisponibilidades (on-line ou off -line) por unidade;
+21. Permitir a emissão de relatório de inconsistência das informações ou dados corrompidos;
+22. O sistema deve trabalhar de forma on-line e offline, bem como deve estar preparado para possíveis quedas de conexão e com o servidor central, devendo trabalhar continuamente de forma offline. Assim que a conexão for restabelecida, os dados deverão ser sincronizados e atualizados de forma automática;
+23. Sincronizar automaticamente todos os dispositivos com o horário de verão;
+24. Permitir o bloqueio automático de registros em horários programados;
+25. Possibilitar a configuração dos dispositivos (adicionar, alterar ou remover) por meio do sistema web, via browser, fazendo a leitura e a aplicação em seu ambiente;
+26. Permitir o envio automático dos registros para um servidor pré-configurado, podendo ser periódico com o tempo configurável ou em tempo real, com validação por usuário e senha, aguardando a resposta do servidor a cada envio para confirmação da operação;
+27. Permitir a configuração das informações do servidor no dispositivo para que haja a comunicação, configurando e armazenando URL válida sob o protocolo HTTP, identificação do coletor e senha de acesso ao servidor para que o servidor possa identificar o dispositivo que está enviando os dados por meio do usuário e verificar se o dispositivo está autorizado a enviar registros por meio da senha;
+28. Função de envio automático no dispositivo por meio de configuração do tempo de envio dos registros armazenados no mesmo, podendo ser configurado se o dispositivo deverá ou não apagar os registros após o envio, com parâmetros de intervalo de envio e apagar após envio, permitindo a visualização, se houver, da mensagem de erro da última tentativa de envio de registros;
+29. Fluxo de configuração: informar os dados de configuração, endereço, usuário, senha, intervalo e apagar após envio; salvar os dados de configuração; testar a configuração; enviar os dados de usuário, senha, intervalo e apagar após envio para o endereço do servidor; exibir retorno de teste; e, sair da configuração;
+30. Fluxo de envio de registros: obter os registros armazenados no dispositivo; obter parâmetros de endereço, usuário, senha, intervalo e apagar após envio; montar estrutura de dados contendo os registros (hora), usuário e senha; enviar os dados para o servidor; aguardar retorno da requisição; se sucesso, apagar os registros enviados do dispositivo, se configurado; se falha, gravar o motivo da falha da última requisição no dispositivo.
+Item 2 - Prestação dos serviços de conexão de cabeamento elétrico e de rede de dados, à rede disponibilizada pela Contratante, delimitação de posicionamento, instalação econfiguração dos dispositivos.
+1. A contratada deverá realizar todos os serviços de instalação, configuração e ativação dos dispositivos, provendo o cabeamento de comunicação de rede de dados e alimentação de energia elétrica necessária para a alimentação dos mesmos.
+ 2. Deverá executar a conexão do cabeamento elétrico e de rede de dados à rede disponibilizada pela contratante , entre os dispositivos e e testar a comunicação com os switches. Acomunicação a partir dos switches, incluindo os links de comunicação LAN/WAN, será de responsabilidade do contratante.
+3. A execução do cabeamento a ser utilizado na conexão à rede da Contratante deverá seguir os padrões estabelecidos previamente pela contratante.
+4. Deverá ser realizada a delimitação do posicionamento dos dispositivos considerando as condições técnicas ideias para garantia da eficiência da autenticação da face (altura, luminosidade, etc.), a instalação dos totens e das placas de identificação, a instalação dos dispositivos e as configurações de foco, luz e rede.
+Item 3 - Sistema informatizado, por usuário, para gerenciamento dos dados relativos à presença registrada nos dispositivos de autenticação da face e à Secretaria de Saúde do Estado, com acesso via web para comunicação e consultas.
+1. Permitir a coleta e o gerenciamento completo, em tempo real, da frequência dos usuários, registrada nos equipamentos;
+2. Quando o usuário realizar o primeiro acesso ao sistema, mostrar na tela inicial um tutorial básico (com opção de pular/visualizar depois) mostrando a localização dos comandos mais relevantes;
+3. Enviar mensagem de texto e notificação push para o número de celular dos responsáveis, de forma automática, em tempo real e em quantidade ilimitada;
+4. Permitir a emissão de relatório gerencial detalhando a frequência dos usuários do sistema Gerencial;
+5. Permitir a emissão de relatório gerencial detalhando a frequência Analítica;
+6. Permitir a emissão de relatório gerencial detalhando a frequência por unidade de saúde;
+7. Permitir a emissão de relatório gerencial detalhando a frequência de toda a rede de saúde;
+8. Não permitir a duplicidade de cadastros de usuários nos controladores;
+9. Permitir a emissão de relatórios detalhado os usuários ativos que não estão cadastrados nos equipamentos;
+10. Disponibilizar a visualização em tela por painel de diagnóstico, em tempo real, e por meio de gráficos, dos índices de frequência;
+11. Disponibilizar a visualização em tela por painel de diagnóstico, em tempo real, e por meio de gráficos, de todas as informações relacionadas à frequência dos usuários do sistema de saúde;
+12. Disponibilizar a visualização em tela por painel de diagnóstico, em tempo real, e por meio de gráficos, de todas as informações relacionadas ao envio de e-mails e mensagem de texto para celular;
+13. Possuir módulo de comunicação que envie alertas por e-mail, notificações push e mensagem de texto para celular de forma manual, com capacidade de agendamento de envio e filtragem;
+14. Permitir a emissão de relatório gerencial de inconsistência;
+15. Permitir a emissão de relatório gerencial de quadro de horários;
+16. Permitir a emissão de relatório gerencial de ocorrências;
+17. Permitir a emissão de relatório gerencial de listagem de todas as tabelas do sistema;
+18. Permitir a emissão de relatório gerencial mensal de registros detalhando a frequência dos usuários;
+19. Possuir escalonamento horizontal da capacidade de recebimento de registros;
+20. Permitir a emissão de relatório gerencial detalhado de usuários que não possuem a face cadastrada nos equipamentos;
+21. Permitir a emissão de relatório gerencial do quantitativo de registros recebidos por dia;
+22. Permitir a emissão de relatório gerencial de faces não cadastradas;
+23. Permitir a emissão de relatório gerencial de quantitativo de registros recebidos por coletor;
+24. Permitir a emissão de gráfico de histograma;
+25. Armazenamento de dados com suporte à Linguagem SQL e NoSQL;
+26. Acompanhamento em tempo real com métricas de registros coletados e enviados por dia;
+27. Permitir a emissão de relatório gerencial de plano de cadastro de face que indique o equipamento no qual o usuário deverá ser cadastrado;
+28. Possibilitar a visualização em dashboard e por intermédio de gráficos da quantidade de registros recebidos por coletor;
+29. Possibilitar a visualização em dashboard e por intermédio de gráficos da quantidade de registros recebidos no dia por coletor dos últimos trinta dias;
+30. Possibilitar a visualização em dashboard e por intermédio de gráficos da quantidade total de registros recebidos;
+31. Possibilitar a visualização em dashboard e por intermédio de gráficos da quantidade total de registros recebidos no dia;
+32. Possibilitar a criação de login e senha na tela de entrada do sistema;
+33. Permitir a emissão de relatório gerencial de indicadores de tempo médio de registro;
+34. Excluir de modo automático do equipamento as faces de pessoas não vinculadas ou não autorizadas;
+35. Apresentar em dashborad gráfico de histograma com a quantidade máxima de registros coletados no intervalo de tempo especificado na linha do tempo;
+36. Apresentar em dashboard um widget de informações de alertas de inconsistência de registros;
+37. Apresentar em dashboard um widget de informações de alertas de falhas de configuração, incluindo um link por meio do qual o usuário possa navegar para o ponto de origem do problema e para o ponto de solução;
+38. Apresentar em dashboard um widget de informações de alertas de quantidade de registros rejeitados, incluindo um link por meio do qual o usuário possa navegar para o ponto de origem do problema e para o ponto de solução;
+39. Apresentar em dashboard um widget de informações de alertas de equipamentos sem comunicação, incluindo um link por meio do qual o usuário possa navegar para o ponto de origem do problema e para o ponto de solução;
+40. Apresentar em dashboard um widget de informações de alertas de equipamentos com a capacidade excedida, incluindo um link por meio do qual o usuário possa navegar para o ponto de origem do problema e para o ponto de solução;
+41. Permitir a emissão de relatório gerencial único de combinações contendo quantidade de registros inconsistentes, quantidade de pessoas sem cadastros no coletor, quantidade de pessoas cadastradas por coletor, gráfico de registros, gráfico de histograma, resumo de alertas e pessoas sem cadastro no coletor;
+42. Possibilitar a transferência de dados de um coletor para outro coletor selecionado;
+43. Apresentar mapa de faces cadastradas nos coletores permitindo a visualização dos usuários que estão cadastradas em cada coletor e a quantidade de usuários daquela unidade;
+44. Permitir a visualização em dasboard da quantidade de faces e usuários cadastrados em cada coletor por usuário, além de possuir a capacidade de mover, copiar ou excluir faces e usuários de forma online, via browser, para qualquer coletor cadastrado;
+45. Realizar o planejamento da quantidade de coletores necessários para o funcionamento eficiente do sistema, baseado na quantidade de usuários,
+46. Permitir a emissão dos gabaritos de instalação dos coletores de acordo com o planejamento realizado pelo sistema;
+47. Permitir a emissão das placas de identificação de cada coletor de acordo com o planejamento realizado pelo sistema;
+48. Permitir a emissão de relatório gerencial do planejamento de cadastro dos usuários nos coletores, informando em qual coletor cada usuário deve ser cadastrado, distribuindo a quantidade de usuários cadastrados nos coletores e prevenindo gargalos no processo de identificação dos usuários nos equipamentos;
+49. Função de visualização e monitoramento em tempo real via painel de diagnóstico da quantidade de unidades conectadas;
+50. Função de visualização e monitoramento em tempo real via painel de diagnóstico da quantidade de coletores conectados;
+51. Função de visualização e monitoramento em tempo real via painel de diagnóstico da quantidade de registros recebidos;
+52. Função de visualização e monitoramento em tempo real via painel de diagnóstico da quantidade de falhas ocorridas nas unidades;
+53. Função de visualização e monitoramento em tempo real via painel de diagnóstico de unidades com falhas no mapa;
+54. Função de visualização e monitoramento em tempo real via painel de diagnóstico de eventos;
+55. Função de monitoramento das unidades com visualização via painel de diagnóstico de evento de ajuste de data/hora dos coletores;
+56. Função de monitoramento das unidades com visualização via painel de diagnóstico dos eventos de envio de mensagem de texto para celular por turno (unidade) com detalhes do processamento;
+57. Função de monitoramento das unidades com configuração de reprocessamento manual do envio de mensagem de texto para celular por turno via painel de diagnóstico;
+58. Função de monitoramento das unidades com visualização por meio de painel de diagnóstico do status da conexão com a unidade;
+59. Função de monitoramento das unidades com visualização via painel de diagnóstico das opções de envio de mensagem de texto para celular;
+60. Função de monitoramento das unidades com visualização por meio de painel de diagnóstico da quantidade total de mensagem de texto para celular enviados;
+61. Função de monitoramento das unidades com visualização por meio de painel de diagnóstico da versão da aplicação;
+62. Função de monitoramento das unidades com visualização por meio de painel de diagnóstico dos dados de contato da unidade;
+63. Função de monitoramento das unidades com obtenção dos logs de eventos da aplicação;
+64. Função de adicionar anotação por unidade via painel de diagnóstico;
+65. Função de monitoramento dos coletores com visualização via painel de diagnóstico do status de conexão com o coletor;
+66. Função de monitoramento dos coletores com visualização via painel de diagnóstico da quantidade de registros recebido na última coleta;
+67. Função de monitoramento dos coletores com visualização via painel de diagnóstico da data e hora da última coleta;
+68. Função de monitoramento dos coletores com visualização por meio de painel de diagnóstico da descrição da última falha encontrada;
+69. Função de monitoramento dos coletores com visualização por meio de painel de diagnóstico do histórico de log de eventos;
+70. Função de monitoramento dos coletores com visualização por meio de painel de diagnóstico do histórico de logs obtidos das unidades;
+71. Função de monitoramento dos coletores via painel de diagnóstico para download dos logs;
+72. Software multiplataforma, devendo funcionar perfeitamente nas plataformas Windows 32/64 bits, Linux, MacOS, iOS e Android;
+73. Comunicação via api rest embarcada ao firmware dos equipamentos de coleta, usando protocolos tcp/https;
+74. Controle de dados e logs de acesso;
+75. Registrar as alterações, inserções e remoções de dados feitas pelos operadores do sistema (log), para uma eventual auditoria;
+76. Servidores de aplicação separados dos servidores de banco de dados, garantindo assim melhor desempenho;
+77. Servidores dedicados, hospedados em Data Center, com garantia de desempenho e navegação 24x7;
+78. Possibilitar a vinculação dos dados cadastrais às imagens fotográficas dos usuários;
+79. Por questões de segurança deve criptografar todos os dados a serem transmitidos para o servidor central;
+80. Sistema de detecção e correção de falhas em memória S-RAM e dados para o módulo embarcado CLC (column- line-code);
+81. Sistema desenvolvido totalmente para internet, utilizando recursos atuais, para que seja acessado pelos principais navegadores (browsers), sem necessidade de uso de plugins, extensões ou complementos;
+82. Geração de backup automático dos dados coletados e enviados;
+83. Gerar log de informações sobre as atividades exercidas no sistema para posterior auditoria no próprio banco de dados;
+84. Gerenciamento completo, com enfileiramento de registros evitando sobrecargas e perdas;
+85. Fazer a comunicação broadcasting de sincronismo de informações dos eventos registrados pelos servidores em exercício, coletados em todos os equipamentos de registro instalados, disponibilizando banco de dados com as informações colhidas;
+86. Capacidade de comunicação broadcasting com os equipamentos para exclusão de cadastro;
+87. Possuir configuração de proxy para poder se ajustar a configurações de diferentes redes;
+88. Permitir importação de dados cadastrais dos usuários e exportação de dados, em arquivo .txt, de formato configurável;
+89. Todos os processos e funcionalidades devem ser registrados em um arquivo de log com os detalhes de seu funcionamento;
+90. Realizar o backup automático dos dados coletados por coletor e também dos dados que já foram transmitidos, incluindo as faces, possibilitando a sua recuperação posterior;
+91. Suportar modos de autenticação OAuth 2.0 e por Certificado Digital A1 e A3;
+92. Permitir a configuração de horário e prazo de tolerância para o envio de mensagem de texto para celular e e- mail, bem como a edição dos textos dos mesmos;
+93. Permitir a visualização do status de envio de mensagem de texto para celular, contemplando as opções: processado, não processado, expirado, enviado, não enviado e não habilitado;
+94. Suportar os protocolos http, htt ps e tcp;
+95. Possibilitar o envio dos dados para o servidor central nos formatos Json ou XML;
+96. Possuir auxílio ao usuário por vídeo aulas disponibilizadas no sistema;
+97. Possibilitar o download de aplicativos que permitam acesso remoto ao computador para fornecer orientação;
+98. O formato Json deverá ser acrescido de uma coluna com a assinatura Hash para garantir que seus dados não foram modificados durante a transmissão;
+99. O XML deverá exibir no seu conteúdo os dados da assinatura eletrônica realizada por um certificado digital;
+100. Apresentar em painel de diagnóstico informação relativa ao quantitativo total de registros recebidos no dia e recebidos do dia;
+101. Apresentar em painel de diagnóstico informação relativa ao quantitativo de faces cadastradas e faces não vinculadas;
+102. Permitir a visualização em gráfico do histórico de quantitativo de registros e envio de mensagem de texto para celular por dia;
+103. Possuir níveis de usuários como, servidores, diretores e secretaria, além de permitir atribuição de permissões diferentes para cada operador ou grupo de operadores do sistema;
+104. Possuir aplicação mobile para visualização dos registros de entrada e saída dos usuários, com perfil do usuário e responsável, incluindo o envio de informativos e alertas de push;
+105. Possuir servidor de processamento sob demanda capaz de identificar a quantidade de informações recebidas das unidades e a necessidade ou não de aumento da sua capacidade de processamento. Identificada a necessidade, o servidor deverá alocar novos recursos de forma horizontal e paralela para que se mantenha a taxa de processamento de registros por segundo;
+106. Abertura de chamados técnicos integrada ao gerenciamento:
+106.1. Permitir a abertura de chamados técnicos para solicitação de manutenção e/ou suporte técnico, relativos aos controladores e ao software;
+106.2. Permitir o cadastro de quantidade ilimitada de unidades;
+106.3. Permitir o cadastro de quantidade ilimitada de departamentos;
+106.4. Permitir o cadastro de quantidade ilimitada de grupos de atendimento;
+106.5. Permitir o cadastro de quantidade ilimitada de usuários por unidade, departamento e grupo;
+106.6. Vincular o cadastro de usuário ao endereço de e-mail do mesmo para envio automático e ilimitado de e-mails com alertas sobre a alteração de status dos chamados técnicos;
+106.7. Vincular o cadastro de usuário ao endereço de e-mail do mesmo para envio automático e ilimitado de e-mails com alertas sobre a inclusão de apontamentos;
+106.8. Vincular o cadastro de usuário ao endereço de e-mail do mesmo para envio automático e ilimitado de e-mails com alertas sobre arquivos anexados pelos atendentes;
+106.9. Vincular o cadastro de usuário ao endereço de e-mail do mesmo para envio automático e ilimitado de e-mails com alertas sobre o encerramento dos chamados;
+106.10. Vincular o cadastro de usuário ao endereço de e-mail do mesmo para envio automático e ilimitado de e-mails com alertas de notificação para avaliação do atendimento;
+106.11. Vincular o cadastro de usuário ao número do celular do mesmo para envio automático e ilimitado de mensagem de texto para celular com alertas sobre a alteração de status dos chamados técnicos;
+106.12. Vincular o cadastro de usuário ao número do celular do mesmo para envio automático e ilimitado de mensagem de texto para celular com alertas sobre a inclusão de apontamentos;
+106.13. Vincular o cadastro de usuário ao número do celular do mesmo para envio automático e ilimitado de mensagem de texto para celular com alertas sobre arquivos anexados pelo atendente;
+106.14. Vincular o cadastro de usuário ao número do celular do mesmo para envio automático e ilimitado de mensagem de texto para celular com alertas sobre o encerramento dos chamados;
+106.15. Vincular o cadastro de usuário ao número do celular do mesmo para envio automático e ilimitado de mensagem de texto para celular com alertas de notificação para avaliação do atendimento;
+106.16. Vincular o cadastro de usuário ao número do celular do mesmo para envio automático e ilimitado de mensagem de texto para celular com alertas sobre status de equipamentos em manutenção;
+106.17. Vincular o cadastro de usuário ao número do celular do mesmo para envio automático e ilimitado de mensagem de texto para celular com alertas sobre laudos técnicos pendentes;
+106.18. Permitir que o usuário habilite e desabilite o recebimento de alertas;
+106.19. Permitir o registro de quantidade ilimitada de chamados técnicos;
+106.20. Permitir o cadastro de quantidade ilimitada de tipos de chamados;
+106.21. Permitir o cadastro de quantidade ilimitada de subtipos de chamados;
+106.22. Gerar um número de protocolo único para cada chamado técnico;
+106.23. Permitir a vinculação de chamados a números de protocolos já existentes no caso de chamados vinculados;
+106.24. Informar ao usuário o prazo máximo de solução do chamado no formato data e hora (dd/mm/aaaa hh:mm:ss);
+106.25. Permitir que sejam anexados arquivos de texto e imagem nos chamados;
+106.26. Permitir que os chamados sejam enviados na íntegra por e-mail;
+106.27. Permitir que os chamados sejam impressos na íntegra;
+106.28. Apresentar timeline dentro do chamado com os quatro últimos chamados abertos pelo usuário;
+106.29. Possibilitar que o usuário opte pelo não encerramento do chamado nos casos de não resolução;
+106.30. Possibilitar que o usuário opte pelo não encerramento do chamado nos casos de resolução parcial do problema;
+106.31. Permitir que o usuário avalie o atendimento quando do encerramento de cada chamado, com parâmetros de 01 (uma) a 05 (cinco) estrelas, considerando 01 (uma) como atendimento insatisfatório e 05 (cinco) como atendimento muito satisfatório;
+106.32. Enviar e-mail para que o usuário possa avaliar o atendimento ao seu chamado dentro da própria mensagem do e-mail clicando em um link;
+106.33. Enviar mensagem de texto para celular para que o usuário possa avaliar o atendimento ao seu chamado acessando o link enviado na mensagem;
+106.34. Não permitir a abertura de um novo chamado caso o usuário possua chamados não avaliados;
+106.35. Permitir a visualização em dashboard dos chamados finalizados aguardando avaliação com um link para ir à página de avaliação;
+106.36. Possuir timeline para visualização do status dos chamados;
+106.37. Destacar os chamados com prazo de vencimento próximo;
+106.38. Destacar os chamados aguardando avaliação;
+106.39. Quando o usuário realizar o primeiro acesso para abertura de chamados, mostrar na tela inicial um tutorial básico (com opção de pular/visualizar depois) mostrando alocalização dos comandos mais relevantes, como botão de abertura de chamado, verificação de chamados abertos, mostrar chamados, edição de informações pessoais, dentre outros
+106.40. Possuir um wizard para auxiliar o usuário quanto ao funcionamento do sistema;
+106.41. Possibilitar o agendamento online de visitas técnicas dentro dos próprios chamados, com visualização da agenda no formato calendário (dia, mês e ano) e especificação dos horários por data, com intervalo de trinta minutos e marcação destacada de cada agendamento contendo o local, o nome do atendente, o nome do técnico responsável, data e hora de início, data e hora de término e status (agendado, cancelado e realizado);
+106.42. Permitir o cadastro de quantidade ilimitada de equipamentos identificados por número de série;
+106.43. Permitir o cadastro de quantidade ilimitada de equipamentos identificados por patrimônio;
+106.44. Permitir o cadastro de quantidade ilimitada de equipamentos identificados por unidade de instalação;
+106.45. Permitir a emissão de laudo técnico de manutenção vinculado ao respectivo chamado, contendo o detalhamento do equipamento, a data de entrada em manutenção, o nome do técnico responsável, o defeito informado, o defeito diagnosticado, a possível causa, a data de realização da manutenção e a discriminação dos serviços realizados;
+106.46. Permitir o gerenciamento dos controladores em manutenção por unidade;
+106.47. Permitir o gerenciamento dos controladores em manutenção por número de série;
+106.48. Permitir o gerenciamento dos controladores em manutenção por número de patrimônio;
+106.49. Permitir de modo online a autorização ou não de manutenção;
+106.50. Permitir de modo online a visualização em tempo real do status da manutenção;
+106.51. Permitir de modo online a visualização dos laudos técnicos de manutenção dos equipamentos;
+106.52. Possibilitar o envio automático e ilimitado de e-mail notificando da necessidade de autorizar serviços;
+106.53. Possibilitar o envio automático e ilimitado de e-mail notificando da conclusão da manutenção;
+106.54. Possibilitar o envio automático e ilimitado de mensagem de texto para celular notificando da necessidade de autorizar serviços;
+106.55. Possibilitar o envio automático e ilimitado de mensagem de texto para celular notificando da conclusão da manutenção;
+106.56. Apresentar gráficos com o total de controladores em manutenção e o tempo que cada controlador está em manutenção, compreendendo o período entre a data de entrada do equipamento até a data de sua conclusão;
+106.57. Permitir a emissão de relatório gerencial de chamados abertos por período;
+106.58. Permitir a emissão de relatório gerencial de chamados abertos por usuário;
+106.59. Permitir a emissão de relatório gerencial de chamados abertos por unidade;
+106.60. Permitir a emissão de relatório gerencial de tipos e subtipos de chamados;
+106.61. Permitir a emissão de relatório gerencial de tempo médio de solução de chamados;
+106.62. Permitir a emissão de relatório gerencial de avaliações dos chamados;
+106.63. Permitir a emissão de relatório gerencial de equipamentos em manutenção;
+106.64. Permitir a emissão de relatório gerencial de agendamentos por período;
+106.65. Permitir a emissão de relatório gerencial de avaliação dos operadores;
+106.66. Permitir a emissão de relatório gerencial de laudos técnicos emitidos;
+106.67. Permitir a emissão de relatório gerencial de laudos técnicos aprovados;
+106.68. Permitir a emissão de relatório gerencial de laudos técnicos reprovados;
+106.69. Permitir a emissão de relatório gerencial de visitas técnicas por período;
+106.70. Permitir a emissão de relatório gerencial de visitas técnicas por unidade;
+106.71. Disponibilizar a visualização em tela via painel analítico, em tempo real, do total de chamados técnicos;
+106.72. Disponibilizar a visualização em tela via painel analítico, em tempo real, por meio de gráficos, dos quantitativos relacionados ao status dos chamados técnicos, como pendentes e encerrados;
+106.73. Disponibilizar a visualização em tela via painel analítico, em tempo real, por meio de gráficos, do quantitativo de chamados técnicos avaliados e os respectivos quantitativos referentes aos graus de avaliação;
+106.74. Disponibilizar a visualização em tela via painel analítico, em tempo real, por meio de gráficos, dos quantitativos relacionados aos status dos chamados técnicos pendentes, como abertos, respondidos, aguardando retorno e aguardando avaliação;
+106.75. Disponibilizar a visualização em tela via painel analítico, em tempo real, por meio de gráficos, dos quantitativos relacionados aos status dos chamados técnicos avaliados, como solucionados, parcialmente solucionados e não solucionados;
+106.76. Disponibilizar a visualização em tela via painel analítico, em tempo real, por meio de gráficos, dos quantitativos relacionados aos status dos equipamentos em manutenção, como em análise, em fase de emissão de laudo técnico, em manutenção e finalizado;
+106.77. Disponibilizar a visualização em tela via painel analítico, em tempo real, por meio de gráficos, dos quantitativos relacionados aos status dos laudos técnicos, como encaminhados, aprovados e reprovados;
+106.78. Disponibilizar a visualização em tela via painel analítico, em tempo real, por meio de gráficos, do quantitativo de chamados técnicos pendentes com parâmetro de configuração de tempo sem atendimento;
+106.79. Possibilitar a emissão e configuração de alertas de e-mail e mensagem de texto para celular de chamado atualizado;
+106.80. Possibilitar a emissão e configuração de alertas de e-mail e mensagem de texto para celular de status do equipamento em manutenção;
+106.81. Possibilitar a emissão e a configuração de alertas de e-mail e mensagem de texto para celular de chamado aguardando avaliação;
+106.82. Possibilitar a emissão e a configuração de alertas de e-mail e mensagem de texto para celular de agendamento de assistência técnica;
+106.83. Possibilitar a emissão e a configuração de alertas de e-mail e mensagem de texto para celular de encerramento de chamado;
+106.84. Possibilitar a emissão e a configuração de alertas de e-mail e mensagem de texto para celular de laudo técnico pendente.
+107. Gerenciamento da secretaria:
+107.1. Abranger todos os serviços de competência das unidades;
+107.2. Possibilitar a habilitação ou não da exigência do cartão SUS;
+107.3. Possibilitar a habilitação ou não da utilização de turnos;
+107.4. Possibilitar a habilitação ou não da visualização por região;
+107.5. Dispor a quantidade de usuários no status desistentes;
+107.6. Apresentar a quantidade de usuários falecidos;
+107.7. Apresentar a quantidade de usuários presentes no dia;
+107.8. Apresentar a quantidade de que já foram atendidos pela rede;
+107.9. Apresentar a quantidade de usuários reclassificados;
+107.10. Apresentar a quantidade de usuários remanejados;
+107.12. Permitir a informar as coordenadas geográficas da residência do usuário;
+107.13. Possibilitar a expansão e aproximação de mapa para facilitar a identificação;
+107.14. Possibilitar a identificação do usuário vinculado ao marcador geográfico;
+107.15. Possibilitar a pesquisa de todos os usuários da rede que não possuem coordenadas geográficas;
+107.16. Possibilitar a pesquisa de todos os usuários por unidade que não possuem coordenadas geográficas;
+107.17. Possibilitar identificar o quantitativo de usuários que não possuem coordenadas geográficas;
+107.18. Possibilitar o levantamento geográfico por unidade e seus respectivos usuários, viabilizando a tomada de decisões;
+107.19. Possibilitar o uso de marcador para identificar a coordenada geográfica da unidade;
+107.20. Possibilitar o uso de marcador para identificar a coordenada geográfica da residência do usuário.
+Item 4 - Prestação dos serviços de treinamento, suporte técnico, atualizações, integrações, customizações, hospedagem, manutenção preventiva e corretiva, presencial ou remotamente, e envio de alertas por e-mail, notificação push e mensagens de texto para celular de forma automática e em quantidade ilimitada.
+1. Caberá a contratada fornecer o treinamento dos operadores, de forma presencial ou remota, onde para cada qual deverá haver um conteúdo adequado às suas atividades.
+2. A contratada deverá prover treinamento teórico e prático de modo a garantir que os treinandos estão aptos à utilização dos dispositivos.
+3. Todo o conteúdo necessário para o treinamento deverá ser disponibilizado por conta da Contratada, podendo ser impresso, digital ou por vídeos tutoriais.
+4. Os treinamentos deverão ser ministrados em dias úteis, nos horários de expediente do Contratante. O conteúdo ministrado e o dimensionamento ficarão a cargo da Contratada, considerando a área de atuação dos treinandos, sendo que cada turma não poderá ter mais de 30 (trinta) participantes.
+5. Os treinamentos deverão abranger as equipes conforme perfis apresentados nos itens a seguir:
+a) Perfil: Usuários
+Treinamento da solução adquirida, de acordo com as funcionalidades e o cronograma de implantação. Ao final do treinamento, os profissionais deverão estar aptos a operarem de forma plena a solução, de modo a utilizarem todos os recursos existentes no que se refere ao papel dos usuários, e exercerem o papel de multiplicadores. A carga horária mínima é de 04 (quatro) horas.
+b) Perfil: Gestores
+Treinamento da solução adquirida, de acordo com as funcionalidades e o cronograma de implantação. Ao final do treinamento, os profissionais deverão estar aptos a operarem de forma plena a solução, de modo a utilizarem todos os recursos existentes no que se refere ao papel dos gestores, e exercerem o papel de multiplicadores. A carga horária mínima é de 04 (quatro) horas.
+6. Deverá ser fornecido Certificado de Participação aos participantes que tiverem comparecido a mais de 85% (oitenta e cinco por cento) das atividades de cada treinamento.
+7. Em caso de treinamento presencial, as despesas relativas à participação dos instrutores e de pessoal próprio, tais como: hospedagem, transporte, diárias, etc. serão por conta da Contratada.
+8. O Contratante resguardar-se-á o direito de acompanhar, adequar e avaliar o treinamento contratado com instrumentos próprios, sendo que, se o treinamento for julgado insuficiente, caberá à Contratada, sem ônus para a Contratante, ministrar o devido reforço.
+9. A Contratada deverá realizar a prestação de um conjunto de serviços técnicos, presencial ou remotamente, durante a vigência contratual, composto pelo suporte técnico para dirimir dúvidas, pela manutenção preventiva e corretiva, por atualizações, integrações e customizações, pela hospedagem da aplicação web (servidor), bem como pelos serviços de envio de alertas por e-mail,notificação push e mensagens de texto para celular de forma automática e em quantidade ilimitada;
+10. Para a hospedagem da aplicação, a SES disponibilizará servidor(es), recursos de rede e de conexão necessários para a operação em Data Center próprio, sendo vetada a utilização de nuvem, co-locati on ou servidor/appliance proprietário;
+11. A contratada deverá dar suporte técnico e manutenção aos dispositivos, devendo possuir canais de comunicação com os usuários e gestores por meio de telefone, e- mail e sistema de abertura de chamados (Help Desk). Esses canais deverão realizar atendimento de primeiro nível sanando dúvidas de usuários, tratando algum problema ou abrindo chamados para o atendimento de campo.
+12. Os serviços de manutenção preventiva e corretiva consistem na correção de eventuais defeitos de operação para todos os dispositivos instalados, devendo atender as especificações e padrões apresentados a seguir:
+12.1 A manutenção corretiva será destinada a remover os eventuais defeitos de funcionamento apresentados nos dispositivos, mediante chamado à contratada, compreendendo os serviços de mão-de-obra para o conserto e/ou substituição/reposição de peças desgastadas e/ou danificadas por originais do fabricante, e ainda quando for considerado necessário serviço de regulagem, ajuste e pequenos reparos colocando-os em perfeitas condições de uso. Durante o período de 12 (doze) meses de garantia, os custos referentes a substituição de peças ficarão a cargo da Contratada. Em caso de danos causados por mal-uso e/ou vandalismo, os custos referentes a substituição de peças ficarão a cargo da Contratante.
+12.2 A manutenção preventiva compreende uma série de procedimentos tais como verificações, ajustes e testes, que tem o objetivo de evitar ou reduzir a probabilidade de falha ou a degradação do funcionamento dos dispositivos.
+12.3 Quando da execução da manutenção preventiva for constatada a necessidade de uma intervenção corretiva, a contratada deverá realizar a correção do defeito.
+13. Caberá a contratada o fornecimento do serviço de envio de alertas por e-mail, notificação push e mensagens de texto por celular para todas as funcionalidades que exigem ou necessitam de tal comunicação, de forma automática e em quantidade ilimitada.
+Integrações
+14. Integração via API com sistemas da SES e do Estado de Goiás, tais como SDME e Goiás Biométrico.
+15. Gerar senha para a ala correta para o paciente (dispensação, abrir processo, renovar processo, receber medicação, de acordo com a necessidade apontada pelo SDME. 5.1. A presente contratação de Fornecimento de Bens e Materiais e Serviços - Dispositivo eletrônico (totem) ; Prestação dos serviços de instalação de cabeamento elétrico e de rede de dados, Suporte técnico; Manutenção preventiva e corretiva. está fundamentada nos termos do Estudo Técnico Preliminar. 
+5.2. O presente projeto de gerenciamento tecnológico visa a contratação de solução integrada com o objetivo de assegurar que ocorra no mais alto nível de segurança, qualidade na entrega dos medicamentos de alto custo aos pacientes que fazem uso nas unidades da Secretaria de Saúde. Desta forma garantiremos a presteza neste serviço que é de suma importância para vida daqueles que fazem uso destes serviços.
+5.3. Tanto instituições públicas como privadas estão submetidas e expostas aos atuais problemas de segurança e mazelas da sociedade.
+5.4. Tais problemas geram perdas atingindo fundamentalmente a Administração Pública, que, por sua vez, na busca incansável por melhorias e ganho de escala em qualidade, vem por meio de planejamentos e estudos, buscar implementar políticas públicas apoiadas por tecnologias de forma a sanar tais efeitos.
+5.5. Uma determinada solução que vise atendimento a uma demanda específica momentânea não será tão eficaz quanto uma solução que vise o atendimento perene, mas ainda permita agregar novos componentes ou ainda integrações para resolução de novos problemas.
+5.6. Dessa maneira, a solução pretendida pelo presente Termo de Referência prevê componentes de integração com outros subsistemas e ainda implementação das tecnologias aqui descritas, visando estar apto para atender às demandas atuais desta Secretaria de Saúde.
+5.7. Benefícios esperados da solução a ser implantada:
+a) Atualização da base cadastral dos pacientes que fazem uso do SDME;
+b) Cadastro das faces dos usuários do sistema de saúde;
+c) Utilização da base cadastral bem como da face cadastrada de cada usuário e servidor para realizar o gerenciamento diário e efetivo da frequência dos mesmos;
+d) Envio de alertas aos responsáveis, bem como aos entes administrativos da área de saúde. Tais avisos devem se dar por e-mail, notificação push e mensagem de texto;
+e) Os meios eletrônicos a serem disponibilizados permitem a determinação, criação e implementação de regras de controle de presença, as quais por sua vez criarão políticas públicas de gerenciamento, controle e tomada de ações, como por exemplo:
+e.1) Geração de relatórios de controle de presença dos usuários do SDME;
+e.2) Relatórios de presença para administração;
+e.3) Controle da presença, assiduidade no sistema de saúde;
+e.4) Identificação por autenticação da face, garantindo que de fato quem registrou a presença foi o próprio usuário ou alguém por ele autorizado;
+e.5) Gerenciamento de dados estatísticos em benefícios de programas sociais, manutenção de unidades de saúde , controle do recursos públicos, etc.;
+e.6) Importante incremento para a segurança das unidades da Secretária de Saúde;
+e.7) Cumprimento de função não só ecológica, pois dispensa senhas impressas em papel, mas também tecnológico por ser rápido, prático, seguro e sem contato. Solução econômica, pois dispensa a aquisição de bobinas de papel e reposição das mesmas, desta forma eliminando diversas atividades já previsíveis em sistemas de gerenciamento de fila de atendimento. 6.1. O objeto da contratação deve seguir todos os requisitos e padrões regionais ou nacionalmente estabelecidos. Exigência de Amostra
+6.4. É prerrogativa do pregoeiro solicitar à licitante temporariamente declarada vencedora a apresentação de amostra (prova de conceito) para comprovação do atendimento às exigências técnicas em até 05 (cinco) dias úteis depois de notificada.
+6.5. A licitante deverá apresentar pelo menos um profissional especialista para acompanhar e orientar a avaliação da amostra, que será realizada pela comissão da área técnica do contratante,seguindo os critérios abaixo relacionados:
+ 
+
+
+
+Sistema de autenticação facial
+
+
+Item
+Critério analisado
+Atende
+Não atende
+
+
+1
+Capacidade para pelo menos 50.000 faces.
+ 
+ 
+
+
+2
+Comunicação TCP/IP com api rest embarcada
+ 
+ 
+
+
+3
+Função de configuração servidor-web para envio de registros diretamente pela web, configurando IP Servidor, porta, usuário, senha e intervalo.
+ 
+ 
+
+
+4
+Função de atualização de data e hora pelo servidor web.
+ 
+ 
+
+
+5
+Identificação igual ou menor que 01 (um) segundo.
+ 
+ 
+
+
+6
+Câmera dupla de 2MP para melhor dimensionamento e potencialização do reconhecimento da face.
+ 
+ 
+
+
+7
+Funções para configuração da qualidade de imagem, dos ângulos de inclinação e rotação da face, e de sensibilidade para acionamento de Led e detecção de movimento.
+ 
+ 
+
+
+8
+Possibilitar a transferência de dados de um coletor para outro coletor selecionado.
+ 
+ 
+
+
+9
+Função de visualização e monitoramento em tempo real via painel de diagnóstico da quantidade de coletores conectados.
+ 
+ 
+
+
+10
+Toten de atendimento
+ 
+ 
+
+
+Sistema web para gerenciamento de reconhecimento facial
+
+
+Item
+Critério analisado
+Atende
+Não atende
+
+
+1
+Módulo administrador com informações de rastreamento em tempo real das entradas e saídas e cadastros de usuário
+ 
+ 
+
+
+2
+
+Módulo de comunicação que envie alertas por e-mail, notificações push e mensagem de texto para celular de forma manual, com capacidade de agendamento de envio e filtragem.
+
+ 
+ 
+
+
+3
+Permitir a emissão de relatório gerencial de usuários
+ 
+ 
+
+
+4
+Comunicação via api rest embarcada ao firmware dos dispositivos, usando protocolos TCP/HTTPS com o SDME e CNH DETRAN-GO
+ 
+ 
+
+
+5
+Permitir a configuração de horário e prazo de tolerância para o envio de mensagem de texto para celular e e-mail, bem como a edição dos textos dos mesmos.
+ 
+ 
+
+
+6
+Gerar log de informações sobre as atividades exercidas no sistema para posterior auditoria no próprio banco de dados.
+ 
+ 
+
+
+7
+Permitir o cadastro e a edição dos controladores como preenchimento do código, da descrição, do modelo, do número de série, do IP, da porta, da unidade e da altura.
+ 
+ 
+
+
+8
+Possibilitar a inclusão e edição de cadastro de faces e biometrias
+ 
+ 
+
+
+9
+Identificar a fila que o paciente deverá ir (retirar medicamento, abrir processo, renovar processo, receber aplicação de medicamento)
+ 
+ 
+
+
+10
+Direcionar o paciente para uma fila
+ 
+ 
+
+
+Resultado:
+Aprovada
+ 
+
+
+Reprovada Garantia da contratação
+6.11. Será exigida a garantia da contratação de que tratam os incisos I, II e III, do §1º, do art. 96, da Lei Federal nº 14.133 de abril de 2021, no percentual e condições descritas nas cláusulas do contrato.
+6.12. A garantia, nas modalidades caução e fiança bancária, deverá ser prestada em até 10 (dez) dias úteis após a assinatura do contrato.
+6.13. O contrato oferece maior detalhamento das regras que serão aplicadas em relação à garantia da contratação. O objeto contratado deverá ser entregue ou prestado mediante o cumprimento das seguintes condições: CRONOGRAMA DE IMPLANTAÇÃO:
+7.1. O cronograma está definido na tabela a seguir, onde os itens foram substituídos por ações:
+
+
+
+ 
+Mês de referência após solicitação da administração
+
+
+Etapa
+01
+02
+03
+04
+05
+06
+
+
+1
+Instalação dos dispositivos
+
+
+1.1
+Delimitação de posicionamento
+X
+ 
+ 
+ 
+ 
+ 
+
+
+1.2
+Cabeamento elétrico e de rede de dados
+X
+ 
+ 
+ 
+ 
+ 
+
+
+1.3
+Instalação dos dispositivos
+ 
+X
+ 
+ 
+ 
+ 
+
+
+1.4
+Configuração dos dispositivos
+ 
+X
+ 
+ 
+ 
+ 
+
+
+2
+Implantação do sistema de gerenciamento e frequência de usuários
+
+
+2.1
+Gerenciamento
+
+
+2.1.1
+Definição do(s) responsável(is) (por conta da Contratante)
+ 
+X
+ 
+ 
+ 
+ 
+
+
+2.1.2
+Levantamento de informações e banco de dados existentes (por conta da Contratante)
+X
+ 
+ 
+ 
+ 
+ 
+
+
+2.1.3
+Cadastro de usuários
+ 
+X
+ 
+ 
+ 
+ 
+
+
+2.1.4
+Importação de banco de dados existente (por conta da Contratada)
+ 
+X
+ 
+ 
+ 
+ 
+
+
+2.1.5
+Levantamento de requisitos a serem parametrizados (por conta da Contratante e da Contratada)
+X
+ 
+ 
+ 
+ 
+ 
+
+
+2.1.6
+Parametrização de requisitos (por conta da Contratante com o auxílio da Contratada)
+X
+ 
+ 
+ 
+ 
+ 
+
+
+2.1.7
+Treinamento do(s) responsável(is) (por conta da Contratada)
+ 
+X
+ 
+ 
+ 
+ 
+
+
+2.1.8
+Cadastro inicial das faces e/ou cartões (por conta da Contratada)
+ 
+X
+ 
+ 
+ 
+ 
+
+
+3
+Acompanhamento técnico
+
+
+3.1
+Treinamentos
+ 
+X
+X
+ 
+ 
+ 
+
+
+3.2
+Integrações
+ 
+X
+X
+ 
+ 
+ 
+
+
+3.3.
+Customizações
+ 
+X
+X Condições de Pagamento:
+  7.1.2. As condições de pagamento seguirão o cronograma as condições de fornecimento da seguinte forma:
+
+
+
+CONDIÇÕES DE PAGAMENTO
+
+
+ 
+MÊS DE REFERÊNCIA APÓS A ASSINATURA DO CONTRATO
+ 
+VALOR TOTAL (R$)
+
+
+1º
+2º
+3º
+4º
+5º
+6
+
+
+Dispositivo eletrônico (totem) para registro de presença por meio de autenticação da face com sistema web de transmissão e gerenciamento via web, para gerenciamento dos dados relativos à presença registrada nos dispositivos de autenticação da face e integrações via API aos sistemas da SES-GO e envio de alertas por e-mail, notificação push e mensagens de texto para celular de forma automática e em quantidade ilimitada.
+X
+X
+ 
+ 
+ 
+ 
+definido após certame
+
+
+Prestação dos serviços de instalação de cabeamento elétrico e de rede de dados, delimitação de posicionamento, instalação e configuração dos Dispositivos.
+X
+X
+ 
+ 
+ 
+ 
+definido após certame
+
+
+Suporte técnico, atualizações, integrações, customizações presencial ou remotamente
+ 
+ 
+X
+ 
+ 
+ 
+definido após certame
+
+
+Manutenção preventiva e corretiva - HELPDESK
+ 
+ 
+X
+ 
+ 
+ 
+definido após certame 7.1.3. Caso não seja possível a entrega na data determinada, a empresa deverá comunicar as razões respectivas com pelo menos 15 (quinze) dias de antecedência para que qualquer pleito de prorrogação de prazo possa ser analisado, ressalvadas situações de caso fortuito e força maior. Local de entrega ou prestação de serviço:
+7.2. A entrega dos dispositivos eletrônicos e as instalações ocorrerão de acordo com o cronograma e os locais definidos pelo contratante.
+7.3. A entrega será realizada na sede do contratante, mediante solicitação por meio de emissão de autorização de fornecimento.
+7.4. Todos os equipamentos serão devidamente entregues e instalados nos locais determinados pela diretoria do CEMAC tendo como referencia os seguintes locais:
+
+Central de Medicamentos de Alto Custo Juarez Barbosa Goiânia – GO, Rua 16, esquina com Rua 12, nº 97, Centro - Goiânia - Goiás - 13 unidades;
+Regional de Saúde Pireneus - Central de Medicamentos de Alto Custo, Rua Quatorze de Julho, 1471 - St. Central, Anápolis – GO – 03 unidades;
+Policlínica Estadual da Região Nordeste – Posse - GO - Avenida Juscelino Kubitscheck de Oliveira, Setor Buenos Aires, Posse - GO: 02 unidades;  
+Policlínica Estadual da Região do Entorno – Formosa – GO, Avenida Oeste, Quadras 4, 5 e 9, Jardim Oliveira, Formosa - GO: 02 unidades; 
+Policlínica Estadual da Região São Patrício – Avenida Ulisses Guimarães, esq. c/ Avenida Contorno, s/nº, Bairro Esperança, Goianésia - GO: 02 unidades; 
+Policlínica Regional de Saúde - Policlínica Estadual da Região Sudoeste – Rua 8, Quadra 2, Lote 28, Residencial Atenas 2, Quirinópolis - GO: 02 Unidades;  
+Policlínica Estadual da Região Oeste - São Luís de Montes Belos, Rodovia GO-060, Km 118, Zona de Expansão Urbana, - São Luís de Montes Belos - GO: 02 Unidades;
+Policlínica Estadual Região Rio Vermelho – Goiás – GO, Avenida Nossa Senhora Aparecida, Fazenda Três Palmeiras (antiga estrada vicinal) - Goiás - GO: 02 Unidades. Dinâmica da entrega ou prestação de serviço:
+7.3. Os produtos a serem entregues devem ser acondicionados em embalagem apropriada, de forma segura, com os respectivos acessórios, com marca, manual, garantia e modelo impressos. 7.5.1.  Todos os sistemas implantados e seus componentes deverão contar com 12 (doze) meses de garantia mínima.
+  7.5.2. A garantia deverá ser prestada no local de instalação dos equipamentos e softwares.
+  7.5.3. Durante o período de garantia a contratada deverá atender a todos os chamados realizados pela contratante em prazos a serem definidos em SLA.
+  7.5.4. A contratada durante o período de garantia deverá prestar manutenção preventiva dos equipamentos e softwares de forma a mantê-los operacionais. A manutenção preventiva deverá ter periodicidade mensal e o cronograma de execução deverá ser desenvolvido em conjunto com a contratante através de SLA a ser escrito.
+         7.5.5. Caso seja necessária a remoção de algum componente para o laboratório da contratada, é seu dever substituir o item a ser reparado com um exemplar similar afim de manter as condições funcionais da solução.
+         7.5.6. A contratada deverá disponibilizar módulo de atendimento help-desk online integrado ao software de gerenciamento dos controladores, para abertura e registro de chamados técnicos. Deverá ser registrado o conteúdo de abertura do chamado e gerar um protocolo para acompanhamento. Responsabilidade do Fornecedor
+8.1. Não obstante o Fornecedor ser o único responsável pela entrega do objeto ou prestação de serviço, a Administração se reserva no direito de exercer a mais ampla e completa fiscalização sobre o fornecimento ou prestação de serviço, nos termos da legislação aplicável.
+8.2. O Fornecedor será responsável pelos danos causados diretamente à Administração ou a terceiros em razão da execução do contrato, e não excluirá nem reduzirá essa responsabilidade a fiscalização ou o acompanhamento pela Administração.
+Comunicação
+8.3. As comunicações entre o órgão ou entidade e o Fornecedor serão realizadas por escrito, admitindo-se o uso de notificação ou mensagem eletrônica registrada no sistema SISLOG destinada a esse fim, realizadas pelo Gestor do Contrato, ou seu respectivo substituto, formalmente designado.
+Reunião inicial do contrato
+8.4. Após a assinatura do contrato ou instrumento equivalente, o órgão ou entidade poderá convocar o representante da empresa Fornecedora para reunião inicial para apresentação do Plano de Gestão do Contrato, que conterá informações acerca das obrigações contratuais, dos mecanismos de fiscalização, das estratégias para execução do objeto, do plano complementar de execução do Fornecedor, quando houver, do método de aferição dos resultados e das sanções aplicáveis, dentre outros.
+Registro de Ocorrências
+8.5. Serão registradas todas as ocorrências relacionadas à execução do contrato, com a descrição do que for necessário para a regularização das faltas ou dos defeitos observados.
+Gestão e fiscalização do contrato
+8.6. O contrato será acompanhado pelo Gestor e Fiscal do Contrato, ou seus respectivos substitutos, formalmente designados nos termos do Decreto Estadual n° 10.216 de fevereiro de 2023, responsáveis pela fiscalização, acompanhamento e verificação da perfeita execução contratual, em todas as fases até a finalização do contrato.
+8.7. O Gestor do contrato coordenará a atualização do processo de acompanhamento e fiscalização do contrato e será responsável pela comunicação com representantes do Fornecedor, nos termos do art. 22 do Decreto Estadual n° 10.216 de fevereiro de 2023.
+8.8. O Gestor do contrato coordenará as atividades relacionadas à fiscalização técnica, administrativa e setorial, aos atos preparatórios à instrução processual e encaminhará a documentação pertinente ao setor de contratos para a formalização dos procedimentos relativos à alteração, prorrogação ou rescisão contratual ou para a formalização de processo administrativo de responsabilização para fins de aplicação de sanções.
+Fiscalização Técnica
+8.9. O Fiscal Técnico do contrato acompanhará a execução do contrato, para que sejam cumpridas todas as condições estabelecidas no contrato, de modo a assegurar os melhores resultados para a Administração, segundo suas atribuições descritas no art. 23 do Decreto Estadual n° 10.216 de fevereiro de 2023.
+8.10. O Fiscal Técnico acompanhará o contrato com o objetivo de avaliar a execução do objeto nas condições contratuais e, se for o caso, aferir se a quantidade, a qualidade, o tempo e o modo da prestação ou da execução do objeto estão compatíveis com os indicadores estabelecidos no edital para o pagamento, com possibilidade de solicitar o auxílio ao Fiscal Administrativo ou Setorial, e ainda informar ao gestor do contato, em tempo hábil, a ocorrência relevante que demandar decisão ou adoção de medidas que ultrapassem sua competência ou a existência de riscos quanto à conclusão da execução do objeto contratado que estão sob sua responsabilidade.
+Fiscalização Administrativa
+8.11. O Fiscal Administrativo do contrato acompanhará os aspectos administrativos contratuais quanto às obrigações previdenciárias, fiscais e trabalhistas e ao controle do contrato no que se refere a revisões, reajustes, repactuações e providências nas hipóteses de inadimplemento, segundo suas atribuições descritas no art. 24 do Decreto Estadual n° 10.216 de fevereiro de 2023.
+Verificação da manutenção das condições de habilitação do Fornecedor
+8.12. O Fornecedor deverá manter, durante toda a execução do contrato, em compatibilidade com as obrigações por ele assumidas, todas as condições exigidas para a habilitação na licitação, ou para a qualificação, na contratação direta.
+8.13. Constatando-se a situação de irregularidade do Fornecedor, o Gestor deverá notificar o Fornecedor para que, no prazo de 05 (cinco) dias úteis, regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual período, por motivo justo e a critério da Administração.
+8.14. Não havendo regularização ou sendo a defesa considerada improcedente, a Administração deverá adotar as medidas necessárias à rescisão contratual por meio de processo administrativo, assegurado ao Fornecedor o contraditório e a ampla defesa.
+8.15. Havendo a efetiva execução do objeto durante o prazo concedido para a regularização, os pagamentos serão realizados normalmente, até que se decida pela rescisão do contrato. O objeto contratado sera recebido nas seguintes condições: Recebimento do objeto
+9.1. Os bens serão recebidos provisoriamente, de forma sumária, no ato da entrega, juntamente com a Nota Fiscal ou instrumento de cobrança equivalente, pelo(a) fiscal do contrato, para efeito de posterior verificação de sua conformidade com as especificações constantes no Termo de Referência e na proposta. 9.2. Os produtos ou serviços serão recebidos definitivamente, no prazo de 05 (cinco) dias, contados do recebimento provisório, pelo Fiscal do Contrato, após a verificação da qualidade e quantidade do material e consequente aceitação, mediante Termo de Recebimento Definitivo, das condições exigidas no Termo de Referência.
+  9.2.1. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de forma justificada, por igual período, quando houver necessidade de diligências para a aferição do atendimento das exigências contratuais.
+  9.2.2. O Recebimento provisório ou definitivo do objeto não exclui a responsabilidade do Fornecedor pelos prejuízos resultantes da incorreta execução do contrato.
+  9.2.3. Na hipótese de o recebimento definitivo não ser realizado no prazo fixado sem qualquer comunicação ao Fornecedor, reputar-se-á como realizada, consumando-se o recebimento no dia do esgotamento do prazo.
+  9.2.4. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, deverá ser observado o teor do art. 143 da Lei Federal nº 14.133 de abril de 2021 comunicando-se à empresa para emissão de Nota Fiscal no que pertine à parcela incontroversa da execução do objeto, para efeito de liquidação e pagamento.
+  9.2.5. O prazo para a solução, pelo Fornecedor, de inconsistências na execução do objeto, de saneamento da Nota Fiscal ou de instrumento de cobrança equivalente, verificadas pela Administração durante a análise prévia à liquidação de despesa, não será computado para os fins do recebimento definitivo.
+  9.2.6. O mero recebimento sumário de produtos pela equipe de almoxarifado, com a respectiva assinatura de canhoto da Nota Fiscal, não implicará em recebimento provisório e/ou definitivo do objeto do contrato, os quais serão formalizados por meio de documento próprio pelo respectivo fiscal do contrato. Prazo para correção de defeitos
+9.3. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório, quando em desacordo com as especificações constantes no Termo de Referência e na proposta, devendo ser substituídos no prazo de 15 (quinze) dias, a contar da notificação do Fornecedor, às suas custas, sem prejuízo da aplicação das penalidades. Atesto da execução do objeto
+9.4. Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo de 10 (dez) dias úteis para fins de atesto da execução do objeto, na forma desta seção, nos termos do art. 4º do Decreto Estadual n° 9.561 de novembro de 2019.
+9.5. Havendo erro na apresentação da Nota Fiscal ou instrumento de cobrança equivalente, ou circunstância que impeça a liquidação da despesa, o prazo para atesto ou liquidação ficará sobrestado até que o Fornecedor providencie as medidas saneadoras, reiniciando-se o prazo após a comprovação da regularização da situação, sem ônus à Administração.
+9.6. Nenhum pagamento será efetuado ao Fornecedor enquanto perdurar pendência na apresentação da Nota Fiscal ou instrumento de cobrança equivalente.
+9.7. O prazo de atesto da execução do objeto será reduzido à metade, mantendo-se a possibilidade de prorrogação, no caso de contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da Lei Federal nº 14.133 de abril de 2021. 9.8. A Nota Fiscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente acompanhado da comprovação da regularidade fiscal, constatada por meio de consulta on-line ao CADFOR.
+  9.8.1. O Fornecedor que estiver em situação de irregularidade junto ao CADFOR deverá entregar juntamente com a Nota Fiscal ou documento de cobrança equivalente, os documentos que porventura estiverem vencidos para fins de atualização pelo CADFOR.
+9.9. A equipe de fiscalização do contrato realizará consulta ao Cadastro Unificado de Fornecedores do Estado – CADFOR, bem como no Cadastro de Inadimplentes – CADIN estadual, para verificar a manutenção das condições de habilitação.
+  9.9.1. Caso seja constatado que o Fornecedor esteja em situação de irregularidade perante o Cadastro Unificado de Fornecedores do Estado – CADFOR, este será notificado por escrito para, no prazo de 5 (cinco) dias úteis, encaminhar ao Gestor do Contrato os documentos que porventura estiverem vencidos, ou, no mesmo prazo, apresentar sua defesa.
+  9.9.2. Caso seja constatado que o Fornecedor esteja em situação de irregularidade perante o Cadastro de Inadimplentes – CADIN estadual, este será notificado por escrito para, no prazo de 5 (cinco) dias úteis, regularizar sua situação ou, no mesmo prazo, apresentar sua defesa.
+  9.9.3. Os prazos referidos neste item poderão ser prorrogados uma vez, por igual período, a critério da Administração.
+  9.9.4. Não havendo regularização ou sendo a defesa considerada improcedente, a Administração comunicará à Controladoria-Geral do Estado a inadimplência do Fornecedor.
+  9.9.5. Persistindo a irregularidade, a Administração deverá adotar as medidas necessárias à rescisão dos contratos em execução, assegurado o contraditório e a ampla defesa, por meio de processo administrativo a ser instaurado.
+  9.9.6. Havendo a efetiva prestação dos serviços ou o fornecimento dos bens, os pagamentos serão realizados normalmente, até que se decida pela rescisão contratual, se o Fornecedor não regularizar sua situação no CADFOR e/ou no CADIN, salvo nas hipóteses em que houver indícios das infrações administrativas previstas na Lei Federal nº 14.133 de abril de 2021, caso em que a retenção dos créditos não excederá o limite dos prejuízos causados à Administração.
+9.10. O Gestor do Contrato deverá disponibilizar a Nota Fiscal, com seu respectivo atesto, ao setor financeiro, em até 5 (cinco) dias após o atesto.
+Liquidação da Despesa
+9.11. O registro da liquidação da despesa no Sistema de Programação e Execução Orçamentária e Financeira – SIOFINET deverá ser realizado pelo setor financeiro em até 15 (quinze) dias após o atesto da execução do objeto.
+9.12. Para fins de liquidação, o setor financeiro deverá verificar se a Nota Fiscal ou instrumento de cobrança equivalente apresentado expressa os elementos necessários e essenciais do documento, tais como:
+  9.12.1. o prazo de validade e a data da emissão;
+  9.12.2. os dados do contrato e do órgão ou entidade da Administração;
+  9.12.3. o período respectivo de execução do contrato;
+  9.12.4. o valor a pagar; e
+  9.12.5. eventual destaque do valor de retenções tributárias cabíveis. Prazo de Pagamento
+9.13. O pagamento será realizado de forma do item 7.1.2.
+9.14. O pagamento do objeto deverá ser realizado até 30 (trinta) dias após o atesto da Nota Fiscal e emissão do Termo de Recebimento Definitivo pelo Gestor do Contrato, nos termos desta seção, respeitada a ordem cronológica conforme Decreto Estadual n° 9.561 de novembro de 2019.
+9.15. A Administração somente efetuará o pagamento à proponente vencedora referente às Notas Fiscais ou documento de cobrança equivalente, estando vedada a negociação de tais títulos com terceiros.
+9.16. O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta corrente indicados pelo Fornecedor.
+  9.16.1. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento. 9.17. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+  9.17.1. A Contratante, ao efetuar o pagamento à Contratada, fica obrigada a proceder à retenção do Imposto de Renda (IR) ao Estado de Goiás com base na Instrução Normativa RFB nº 1.234, de 11 de janeiro de 2012, e alterações posteriores.
+9.18. O Fornecedor regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123 de dezembro de 2006, não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na referida Lei Complementar.
+Reajuste em caso de atraso no pagamento
+9.19. Ocorrendo atraso no pagamento em que o Fornecedor não tenha de alguma forma concorrido para a mora, os valores devidos ao Fornecedor serão atualizados monetariamente entre o termo final do prazo de pagamento até a data de sua efetiva realização, mediante aplicação do índice de correção monetária. Os encargos moratórios pelo atraso no pagamento serão calculados pela seguinte fórmula:
+EM = N x Vp x (I / 365)
+Onde:
+EM = Encargos moratórios a serem pagos pelo atraso de pagamento;
+N = Números de dias em atraso, contados da data limite fixada para pagamento e a data do efetivo pagamento;
+Vp = Valor da parcela em atraso;
+I = IPCA anual acumulado (Índice de Preços ao Consumidor Ampliado do IBGE)/100. 10.1. Critério de Julgamento
+Menor Preço
+
+
+10.2. Forma de adjudicação
+Por Lote
+
+
+10.3. Participação de empresas reunidas em consórcio
+É não é admitida a participação de empresas reunidas em consórcio Tratamento diferenciado para microempresas e empresas de pequeno porte
+10.5. Na presente contratação será concedido tratamento diferenciado e simplificado para as microempresas e empresas de pequeno porte objetivando a promoção do desenvolvimento econômico e social no âmbito municipal e regional, a ampliação da eficiência das políticas públicas e o incentivo à inovação tecnológica, em observância à Lei Complementar nº 123 de dezembro de 2006 e demais dispositivos legais aplicáveis.
+10.6. Havendo alguma restrição na comprovação da regularidade fiscal das microempresas e empresas de pequeno porte, será assegurado o prazo de até 5 (cinco dias úteis), prorrogáveis por igual período, a critério da Administração, para a regularização da documentação, contados do momento em que o proponente for declarado vencedor do certame.
+10.7. A não-regularização da documentação no prazo acima implicará decadência do direito à contratação, sem prejuízo das sanções previstas na Lei Federal nº 14.133 de abril de 2021, sendo facultado à Administração convocar os Fornecedores remanescentes, na ordem de classificação, para a assinatura do contrato, ou revogar a licitação.
+10.8. A disputa exclusiva e/ou reserva de cotas para microempresa e empresa de pequeno porte, na forma da Lei Complementar nº 123 de dezembro de 2006, será aplicada conforme previsto na Planilha de Quantitativo e Valores contida na Seção 3 deste Termo de Referência.
+Exigências de habilitação
+10.9. A documentação exigida para fins de habilitação jurídica, fiscal, social e trabalhista e econômico-¿nanceira, nos termos dos arts. 62 a 70 da Lei Federal nº 14.133 de abril de 2021, poderá ser substituída pelo Certificado de Registro Cadastral – CRC, do Cadastro Unificado de Fornecedores do Estado de Goiás – CADFOR, conforme orientações gerais disponíveis no link: https://sislog.go.gov.br/. Qualificação técnica mínima exigida
+10.10. A empresa deverá apresentar, no mínimo, 01 (um) atestado/declaração fornecido por pessoa jurídica de direito público ou privado, comprovando que o Fornecedor já forneceu equipamento compatível com o licitado ou prestou serviço, de forma satisfatória. O atestado/declaração deverá conter, no mínimo, o nome da empresa/órgão contratante e o nome e assinatura do responsável. 10.11. A título de comprovação da qualificação técnica, o Fornecedor deve comprovar:
+10.11.1. Para fins de comprovação de aptidão para o desempenho de atividade pertinente e compatível com o objeto da licitação, a licitante deverá apresentar juntamente com os demais documentos de habilitação:
+a) Atestado(s) de capacidade técnica, emitido(s) por pessoa jurídica de direito público ou privado, comprovando que a licitante promoveu fornecimento ou locação satisfatoriamente de:
+
+dispositivos eletrônicos de captura facial;
+totem de autoatendimento;
+Integração de base de dados;
+suporte técnico, manutenção preventiva e corretiva em sistemas de tecnologia da informação on-site 24x7;
+
+10.11.2. Capacidade técnico-profissional, por meio da comprovação da licitante de que possui em seu quadro permanente, por vínculo de contrato, natureza trabalhista ou societária, na data prevista para entrega da proposta, no mínimo: 01 (um) profissional de nível superior com graduação em Engenharia da Computação, ou Ciências da Computação, ou Sistemas de Informação, ou Análise e Desenvolvimento de Sistemas; 01 (um) profissional de nível superior com graduação em Processamento de Dados, ou Engenharia de Sistemas;
+10.11.3. O(s) atestado(s) deverá(ão) ser apresentado(s) em papel timbrado do emissor, carimbado (s), devendo constar a razão social, o CNPJ e o endereço da pessoa jurídica emissora, bem como o nome, o cargo e o telefone do signatário, e ainda, a marca/modelo e a quantidade do objeto fornecido, a identificação das unidades e a descrição dos serviços prestados.
+10.11.4. Para fins de comprovação da capacidade técnica não serão admitidos atestados emitidos por empresas pertencentes ao mesmo grupo econômico da licitante, isto é, empresas por ela controladas, suas controladoras, ou que tenham pelo menos um sócio em comum.
+10.11.5. É prerrogativa do pregoeiro realizar diligências a afim de verificar a autenticidade do(s) atestado(s) e o atendimento às exigências contidas neste Edital, podendo solicitar a apresentação de documentos para esse fim. Subcontratação
+10.12. Não é admitida a subcontratação do objeto contratual. Visita técnica facultativa
+10.13. O Fornecedor poderá vistoriar o local onde serão entregues os bens e/ou executados os serviços até o último dia útil anterior à data fixada para abertura da sessão pública, com o objetivo de inteirar-se das condições e grau de dificuldade, mediante prévio agendamento de horário pelo telefone (62)  3201-3722 / 3201-7448, limitada a realização da vistoria a um interessado por vez.
+10.14. O registro dessa Vistoria será formalizado através do ANEXO – MODELO DE DECLARAÇÃO DE VISITA TÉCNICA, que deverá ser assinado por um representante da empresa e outro da Administração.
+10.15. Tendo em vista a faculdade da realização da vistoria, os Fornecedores não poderão alegar o desconhecimento das condições e grau de dificuldade existentes como justificativa para se eximirem das obrigações assumidas ou em favor de eventuais pretensões de acréscimos de preços em decorrência da execução do objeto deste Termo de Referência. Caso opte por não realizar a vistoria nos locais e instalações referentes a este objeto, deverá ser preenchido e assinado, pelo representante da empresa, o documento conforme ANEXO - MODELO DE TERMO DE DISPENSA DE VISITA TÉCNICA.
+10.16. A visita tem a função de garantir, dessa forma, que o Fornecedor tenha pleno conhecimento da natureza e do escopo do projeto, dos serviços e dos fornecimentos, das condições topográficas, hidrológicas e climáticas que possam afetar sua execução; e dos materiais necessários para que sejam utilizados durante a construção e dos acessos aos locais onde serão executados os serviços. EQUIPE DE PLANEJAMENTO RESPONSÁVEL PELA ELABORAÇÃO DESTE TERMO DE REFERÊNCIA: 
+ 
+
+
+
+
+Responsável
+Função
+Telefone
+Email
+
+
+
+
+JEAN CARLO OLIVEIRA CASTRO
+Integrante Administrativo
+62 32013755
+jean.castro@goias.gov.br
+
+
+XISTO MARCLEIDE MAIA ANDRADE
+Integrante Técnico
+62 32013722
+xisto.andrade@goias.gov.br
+
+
+IVANEY SOUZA PIMENTEL
+Integrante Requisitante
+62 32017448
+ivaney.pimentel@goias.gov.br
+
+
+MAURO ANTONIO MARQUES
+Integrante Requisitante
+62 32017445
+mauro.marques@goias.gov.br
+
+
+ZICLEA MILHOMEM ARAUJO
+Integrante Administrativo
+62 32013718
+nucleodecompras.saude@gmail.com Versão do Doc. Padrão0.01 2.1. Descrição resumida do objeto
+Fornecimento de Bens e Materiais e Serviços  - Dispositivo eletrônico (totem) ; Prestação dos serviços de instalação de cabeamento elétrico e de rede de dados, Suporte técnico; Manutenção preventiva e corretiva.
+
+
+2.2. Regime de fornecimento de bens ou serviços
+Fornecimento de Bens e Materiais e Serviços de forma parcelada, nos termos do Cronograma constante neste TR (se aplicável).
+
+
+2.3. Natureza da execução do objeto
+ Fornecimento de Bens e Materiais e Serviços: continuada
+
+
+2.4. Característica do objeto
+ Comum, conforme justificativa constante do Estudo Técnico Preliminar.
+
+
+2.5. Instrumento Contratual
+A presente contratação será formalizada por meio de Termo de Contrato.
+
+
+2.6. Prazo de vigência contratual
+ O prazo de vigência contratual é de 60 meses, contados imediatamente a partir da assinatura ou retirada de Termo de Contrato, nos termos do Título III, Capítulo V, da Lei Federal nº 14.133 de abril de 2021. Considerando que os itens 03 (serviços de instalação, customização, configuração e treinamento das soluções de software) e 04 (Prestação dos serviços de conexão de cabeamento elétrico e de rede de dados, à rede disponibilizada pela Contratante, delimitação de posicionamento, instalação e configuração dos dispositivos),  objetos do contratado são de natureza continuada, a vigência do contrato é prorrogável nos termos da Lei Federal nº 14.133 de abril de 2021. A minuta de Termo de Contrato oferece maior detalhamento das regras que serão aplicadas em relação à vigência da contratação.
