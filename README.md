@@ -10,7 +10,7 @@
                         extract  ·  classify  ·  enrich
 ```
 
-[![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Map--Reduce-green?logo=langchain)](https://langchain-ai.github.io/langgraph/)
 [![Mistral AI](https://img.shields.io/badge/Mistral-AI-orange)](https://mistral.ai/)
 [![Langfuse](https://img.shields.io/badge/Langfuse-Observability-purple)](https://langfuse.com/)
